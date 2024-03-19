@@ -1,9 +1,7 @@
 My contrabutions to jpmorganchase.github.io and Perspective
 ===========================================================
 
-here is a readme of the software engineering program I complety via forage for Jp Morgan
-----------------------------------------------------------------------------------------
-
+This is a readme of the software engineering program I completed via forage for Jp Morgan
 
 This program was 3 parts with a fourth optional part and the parts included: 
 
