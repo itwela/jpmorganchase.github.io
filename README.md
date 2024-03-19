@@ -6,7 +6,7 @@ This is a readme of the software engineering program I completed via forage for 
 This program was 3 parts with a fourth optional part and the parts included: 
 
 - Task 1: Interface with a stock price data feed
-- -Task 2: Use JPMorgan Chase & Co. frameworks and tools
+- Task 2: Use JPMorgan Chase & Co. frameworks and tools
 - Task 3: Display data visually for traders
 - Task 4: Bonus task: Open source contribution
 
